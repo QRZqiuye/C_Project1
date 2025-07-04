@@ -27,5 +27,55 @@
     <ClCompile Include="2-1.c">
       <Filter>Source Files\lesson2</Filter>
     </ClCompile>
+    <ClCompile Include="2-2.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-3.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-4.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-5.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-6.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-7.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-8.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-9.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-10.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-12.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-13.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="2-14.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="example2-1.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="example2-2.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="example2-3.c">
+      <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="example2-3.h">
+      <Filter>Source Files\lesson2</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
