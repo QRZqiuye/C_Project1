@@ -19,6 +19,9 @@
     <Filter Include="Source Files\lesson2">
       <UniqueIdentifier>{31b6a20d-c7f6-4a20-b6ff-7dd36196d54e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\lesson3">
+      <UniqueIdentifier>{f79f3d15-29f2-40e6-bfda-f2b1cf08a611}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="example1-1.c">
@@ -71,6 +74,66 @@
     </ClCompile>
     <ClCompile Include="example2-3.c">
       <Filter>Source Files\lesson2</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-5.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-7.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-8.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-9.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-10.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-11.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-12.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-13.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-14.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-15.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-16.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-17.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="3-18.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="example3-1.c">
+      <Filter>Source Files\lesson3</Filter>
+    </ClCompile>
+    <ClCompile Include="example3-2.c">
+      <Filter>Source Files\lesson3</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
