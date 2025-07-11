@@ -37,6 +37,9 @@
     <Filter Include="Source Files\lesson8">
       <UniqueIdentifier>{2474d846-dee6-401c-b35a-84af5ff56364}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\lesson9">
+      <UniqueIdentifier>{299cc3c9-da03-4038-9e54-64b25c863694}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="example1-1.c">
@@ -431,6 +434,36 @@
     </ClCompile>
     <ClCompile Include="example8-3.c">
       <Filter>Source Files\lesson8</Filter>
+    </ClCompile>
+    <ClCompile Include="9-1.c">
+      <Filter>Source Files\lesson9</Filter>
+    </ClCompile>
+    <ClCompile Include="9-2.c">
+      <Filter>Source Files\lesson9</Filter>
+    </ClCompile>
+    <ClCompile Include="9-3.c">
+      <Filter>Source Files\lesson9</Filter>
+    </ClCompile>
+    <ClCompile Include="9-4.c">
+      <Filter>Source Files\lesson9</Filter>
+    </ClCompile>
+    <ClCompile Include="9-5.c">
+      <Filter>Source Files\lesson9</Filter>
+    </ClCompile>
+    <ClCompile Include="9-6.c">
+      <Filter>Source Files\lesson9</Filter>
+    </ClCompile>
+    <ClCompile Include="9-7.c">
+      <Filter>Source Files\lesson9</Filter>
+    </ClCompile>
+    <ClCompile Include="example9-1.c">
+      <Filter>Source Files\lesson9</Filter>
+    </ClCompile>
+    <ClCompile Include="example9-2.c">
+      <Filter>Source Files\lesson9</Filter>
+    </ClCompile>
+    <ClCompile Include="example9-3.c">
+      <Filter>Source Files\lesson9</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
